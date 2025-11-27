@@ -26,7 +26,7 @@ DJI
 bytedance
 张一鸣
 
-特斯拉
+Musk
 马斯克
 
 微软
@@ -35,6 +35,7 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+Jensen Huang
 
 AMD
 
